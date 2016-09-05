@@ -1,5 +1,7 @@
 <h1><img align=right src="../../../pruten.github.io/raw/master/web/stork_tiny_head3.jpg"/>Shoebill</h1>
 
+Update (Sept 5, 2016): Hi I'm Huntman616 and I'm takeing over the Shoebill project going forward. Sense pruten is unable to. I have his permission so don't worry about that. I look forword with some help geting this project up and running agian.
+
 A Macintosh II emulator that runs A/UX (and A/UX only). 
 
 Shoebill is an all-new, BSD-licensed Macintosh II emulator designed from the ground up with the singular goal of running A/UX. 
@@ -8,8 +10,6 @@ Shoebill requires a Macintosh II, IIx or IIcx ROM, and a disk image with A/UX in
 
 [Download the latest release], and then see the [getting started] wiki.  
 Also check out [screenshots].
-
-__Update (Sept 5, 2016): Hi I'm Huntman616 and I'm takeing over the Shoebill project going forward. Sense pruten is unable to. I have his permission so don't worry about that. I look forword with some help geting this project up and running agian.
 
 __Update (Sept 13, 2015): [Shoebill 0.0.5 is available]__
 

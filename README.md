@@ -1,6 +1,6 @@
 <h1><img align=right src="../../../pruten.github.io/raw/master/web/stork_tiny_head3.jpg"/>Shoebill</h1>
 
-Update (Sept 5, 2016):Hi I'm Huntman616 and I'm takeing over the Shoebill project going forward. Sense pruten is unable to. I have his permission so don't worry about that. I look forword with some help geting this project up and running again.
+Update (Sept 5, 2016): Hi I'm Huntman616 and I'm takeing over the Shoebill project going forward. Sense pruten is unable to. I have his permission so don't worry about that. I look forword with some help geting this project up and running again.
 
 A Macintosh II emulator that runs A/UX (and A/UX only). 
 

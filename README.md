@@ -9,6 +9,8 @@ Shoebill requires a Macintosh II, IIx or IIcx ROM, and a disk image with A/UX in
 [Download the latest release], and then see the [getting started] wiki.  
 Also check out [screenshots].
 
+__Update (Sept 5, 2016): Hi I'm Huntman616 and I'm takeing over the Shoebill project going forward. Sense pruten is unable to. I have his permission so don't worry about that. I look forword with some help geting this project up and running agian.
+
 __Update (Sept 13, 2015): [Shoebill 0.0.5 is available]__
 
 __This will probably be the last release. I won't be able to work on Shoebill going forward (by contractual obligation), so I wanted to race out one last release. Only an OS X binary is available, sorry, and it's very unpolished. But the SDL GUI should still build on linux/windows.__

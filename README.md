@@ -1,8 +1,15 @@
 <h1><img align=right src="../../../pruten.github.io/raw/master/web/stork_tiny_head3.jpg"/>Shoebill</h1>
 
+A Macintosh II emulator that runs A/UX (and A/UX only). 
+
 Update (Sept 5, 2016): Hi I'm Huntman616 and I'm takeing over the Shoebill project going forward. Sense pruten is unable to. I have his permission so don't worry about that. I look forword with some help geting this project up and running again.
 
-A Macintosh II emulator that runs A/UX (and A/UX only). 
+Credits:
+Project Manager:
+huntman616 (GitHub) (emaculation forms)
+Coders:
+
+
 
 Shoebill is an all-new, BSD-licensed Macintosh II emulator designed from the ground up with the singular goal of running A/UX. 
 

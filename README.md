@@ -4,7 +4,7 @@ A Macintosh II emulator that runs A/UX (and A/UX only).
 
 Credits: 
 Project Leader: huntman616 (GitHub) (emaculation forms) 
-Coders:
+Coders:malphas8
 
 Shoebill is an all-new, BSD-licensed Macintosh II emulator designed from the ground up with the singular goal of running A/UX. 
 
